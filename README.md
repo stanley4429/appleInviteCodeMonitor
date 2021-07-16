@@ -1,0 +1,2 @@
+# appleInviteCodeMonitor
+testflight邀请链接检测是否失效部分脚本
